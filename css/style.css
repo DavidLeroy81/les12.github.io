@@ -1,0 +1,90 @@
+/* Header */
+header {
+width: 100%;
+height: 200px;
+background-color: lightslategrey;
+}
+
+/* Td */
+td {
+width: 200px;
+height: 150px;
+}
+
+#Cell01 {
+    background-color: rgb(12, 112, 211);
+	color: rgb(207, 175, 175);
+    }
+
+#Cell02 {
+	background-color: rgb(10, 123, 143);
+	}
+
+#Cell03 {
+	background-color: rgb(12, 211, 184);
+	color: rgb(161, 50, 50);
+	}
+
+#Cell04 {
+	background-color: rgb(12, 211, 22);
+	}
+
+#Cell05 {
+	background-color: rgb(174, 211, 12);
+	color: rgb(74, 152, 184);
+	}
+
+#Cell06 {
+	background-color: rgb(174, 211, 12);
+	}
+
+#Cell07 {
+	background-color: rgb(211, 191, 12);
+	color: rgb(118, 156, 131);
+	}
+
+#Cell08 {
+	background-color: rgb(211, 141, 12);
+	}
+
+#Cell09 {
+	background-color: rgb(211, 92, 12);
+	color: rgb(201, 255, 4);
+	}
+
+#Cell10 {
+	background-color: rgb(211, 75, 12);
+	}
+
+#Cell11 {
+	background-color: rgb(211, 58, 12);
+	color: rgb(110, 129, 151);
+	}
+
+#Cell12 {
+	background-color: rgb(211, 12, 12);
+	}
+
+#Cell13 {
+	background-color: rgb(211, 12, 105);
+	color: rgb(255, 255, 255);
+	}
+
+#Cell14 {
+	background-color: rgb(211, 12, 161);
+	}
+
+#Cell15 {
+	background-color: rgb(178, 12, 211);
+	color: rgb(45, 255, 3);
+	}
+
+#Cell16 {
+	background-color: rgb(121, 12, 211);
+	}
+/* Footer */
+footer {
+    width: 100%;
+    height: 200px;
+    background-color: rgba(67, 72, 77, 0.418);
+    }
